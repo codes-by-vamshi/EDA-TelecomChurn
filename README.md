@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - Telecom Churn Dataset
-Data Set Link - [https://drive.google.com/file/d/19FfTrGFiIb-Aw-8gNMiggCwLS_65EtpD/view]https://drive.google.com/file/d/19FfTrGFiIb-Aw-8gNMiggCwLS_65EtpD/view
+Data Set Link - https://drive.google.com/file/d/19FfTrGFiIb-Aw-8gNMiggCwLS_65EtpD/view
 
 In this project we explored Telecom Churn data. 
 
